@@ -46,7 +46,7 @@ Run database migrations:
 npx drizzle-kit migrate
 ▶️ Running the CLI
 
-All commands are run using:
+### All commands are run using:
 
 npm run start <command> [...args]
 
