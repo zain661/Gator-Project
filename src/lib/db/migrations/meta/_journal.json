@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1771512945283,
+      "tag": "0000_misty_silver_centurion",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1771590915331,
+      "tag": "0001_gorgeous_cable",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1771596674990,
+      "tag": "0002_classy_doctor_faustus",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1771671839761,
+      "tag": "0003_superb_harrier",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1771677173184,
+      "tag": "0004_famous_shadow_king",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1771682478265,
+      "tag": "0005_unknown_captain_cross",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1771682986710,
+      "tag": "0006_common_zuras",
+      "breakpoints": true
+    }
+  ]
+}
